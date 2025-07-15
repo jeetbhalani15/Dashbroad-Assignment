@@ -10,10 +10,9 @@ A modern and responsive dashboard UI built with **React**, **Material-UI**, and 
 - 🌗 Light/Dark mode toggle  
 - 📁 Collapsible side panels (left & right)  
 - 📊 Orders table with:
-  - Sorting
-  - Pagination
-  - Search
-  - Status indicators
+  - Sorting  
+  - Pagination  
+  - Search  
   - Row selection  
 - 📱 Mobile-friendly UX
 
@@ -21,7 +20,7 @@ A modern and responsive dashboard UI built with **React**, **Material-UI**, and 
 
 ## 🖼️ Live Demo
 
-Demo url - https://dashbroad-assignment-ndnzs7vfo-jeetbhalani15s-projects.vercel.app
+Demo URL: [https://dashbroad-assignment-ndnzs7vfo-jeetbhalani15s-projects.vercel.app](https://dashbroad-assignment-ndnzs7vfo-jeetbhalani15s-projects.vercel.app)
 
 ---
 
@@ -36,3 +35,22 @@ Demo url - https://dashbroad-assignment-ndnzs7vfo-jeetbhalani15s-projects.vercel
 
 ## 📁 Project Structure
 
+```text
+dashbroad-ui/
+├── public/
+├── src/
+│   ├── Components/
+│   │   ├── Navbar/
+│   │   ├── LeftPanel/
+│   │   ├── RightPanel/
+│   │   ├── Graphs/
+│   │   │   └── OrdersTable.jsx
+│   │   ├── DisplayData.jsx
+│   │   └── Index.jsx
+│   ├── styles/
+│   │   └── IndexStyled.js
+│   ├── App.jsx
+│   └── main.tsx
+├── index.css
+├── package.json
+└── README.md
