@@ -20,7 +20,7 @@ A modern and responsive dashboard UI built with **React**, **Material-UI**, and 
 
 ## 🖼️ Live Demo
 
-Demo URL: [https://dashbroad-assignment-ndnzs7vfo-jeetbhalani15s-projects.vercel.app](https://dashbroad-assignment-ndnzs7vfo-jeetbhalani15s-projects.vercel.app)
+Demo URL: [https://dashbroad-assignment.vercel.app/](https://dashbroad-assignment.vercel.app/)
 
 ---
 
