@@ -19,11 +19,9 @@ A modern and responsive dashboard UI built with **React**, **Material-UI**, and 
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Live Demo
 
-> _Add a screenshot here if available._  
-> Example:  
-> ![Dashboard Preview](./preview.png)
+Demo url - https://dashbroad-assignment-ndnzs7vfo-jeetbhalani15s-projects.vercel.app
 
 ---
 
