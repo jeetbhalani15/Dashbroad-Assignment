@@ -32,8 +32,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-        "dev": "vite",
-    "build": "tsc -b && vite build",
+    "dev": "vite",
+    "build": "tsc -b && vite build --output public",
     "lint": "eslint .",
     "preview": "vite preview"
   },
